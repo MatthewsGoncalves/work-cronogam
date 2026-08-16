@@ -1,0 +1,20 @@
+# macOS
+.DS_Store
+
+# Dados pessoais e documentos de origem
+base/*
+!base/README.md
+!base/.gitkeep
+
+# Currículos, cartas, estudos e descrições de vagas gerados
+vagas/*
+!vagas/README.md
+!vagas/.gitkeep
+
+# Materiais pessoais opcionais
+roteiro-video-apresentacao.md
+
+# Arquivos temporários de vagas recebidas
+*.html
+*.htm
+
