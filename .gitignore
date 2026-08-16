@@ -1,15 +1,16 @@
 # macOS
 .DS_Store
 
+# Configuração local de ferramentas
+.claude/
+
 # Dados pessoais e documentos de origem
 base/*
 !base/README.md
-!base/.gitkeep
 
 # Currículos, cartas, estudos e descrições de vagas gerados
 vagas/*
 !vagas/README.md
-!vagas/.gitkeep
 
 # Materiais pessoais opcionais
 roteiro-video-apresentacao.md
